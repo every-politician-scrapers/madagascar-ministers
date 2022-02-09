@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Christian Louis Ntsay (born 27 March 1961 in Antsiranana)  is a Malagasy politician who is currently Prime Minister of Madagascar.",
+              "text": "Christian Louis Ntsay (born 27 March 1961 in Antsiranana)  is a Malagasy politician who is serving as the prime minister of Madagascar since 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -27,13 +27,9 @@
                   "page": "Malagasy people"
                 },
                 {
-                  "text": "Prime Minister",
+                  "text": "prime minister of Madagascar",
                   "type": "internal",
-                  "page": "Prime Minister of Madagascar"
-                },
-                {
-                  "type": "internal",
-                  "page": "Madagascar"
+                  "page": "prime minister of Madagascar"
                 }
               ],
               "formatting": {
