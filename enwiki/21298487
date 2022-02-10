@@ -159,7 +159,7 @@
               ]
             },
             {
-              "text": "His tenure has included directing the government's response to the COVID-19 pandemic in Madagascar, during which he promoted misinformation and unproven treatments for the disease, as well as a 2021 food insecurity crisis.",
+              "text": "His tenure has included directing the government's response to the COVID-19 pandemic in Madagascar, during which he promoted misinformation and unproven treatments for the disease, as well as a 2021 food insecurity crisis and Cyclone Batsirai.",
               "links": [
                 {
                   "type": "internal",
@@ -180,6 +180,10 @@
                   "text": "2021 food insecurity crisis",
                   "type": "internal",
                   "page": "2021 Madagascar food crisis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cyclone Batsirai"
                 }
               ]
             }
