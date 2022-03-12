@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q19161338,President of Madagascar,Q1019,Q1019,,,,,,,
-Q23782691,Prime Minister of Madagascar,Q1019,Q1019,,Q1147512,,,,,
+Q19161338,President of Madagascar,Q1019,Q1019,,Q853010,1959-05-01,,,,
+Q23782691,Prime Minister of Madagascar,Q1019,Q1019,,Q1147512,1828,,,,
 Q18204377,Minister of Foreign Affairs,Q1019,Q1019,,,,,,,Minister of Foreign Affairs (Madagascar)
 Q98582633,Health Minister of Madagascar,,Q1019,,,,,,,Health Minister (Madagascar)
 Q89287583,"minister of Industry, Trade and Crafts",Q1019,,,,,,,,
