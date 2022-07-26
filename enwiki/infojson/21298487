@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayor of Antananarivo"
+      ],
+      "stated_as": "51st Mayor of Antananarivo"
+    },
+    "P580": "2007-12-12",
+    "P1365": {
+      "links": [
+        "Hery Rafalimanana"
+      ],
+      "stated_as": "Hery Rafalimanana"
+    },
+    "P582": "2009-02-03",
+    "P1366": {
+      "links": [
+        "Guy Randrianarisoa"
+      ],
+      "stated_as": "Guy Randrianarisoa (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Madagascar"
+      ],
+      "stated_as": "7th President of Madagascar"
+    },
+    "P580": "2009-03-17",
+    "P1365": {
+      "links": [
+        "Marc Ravalomanana"
+      ],
+      "stated_as": "Marc Ravalomanana"
+    },
+    "P582": "2014-01-25",
+    "P1366": {
+      "links": [
+        "Hery Rajaonarimampianina"
+      ],
+      "stated_as": "Hery Rajaonarimampianina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of Madagascar"
+      ],
+      "stated_as": "President of the High Transitional Authority of Madagascar"
+    },
+    "P580": "2009-03-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2014-01-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Madagascar"
+      ],
+      "stated_as": "7th President of Madagascar"
+    },
+    "P580": "2019-01-19",
+    "P1365": {
+      "links": [
+        "Rivo Rakotovao"
+      ],
+      "stated_as": "Rivo Rakotovao (Acting)"
+    }
+  }
+]
